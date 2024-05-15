@@ -1,7 +1,8 @@
-# Assignment
-Assignment
-#Video
-https://github.com/cbpowell/MarqueeLabel/assets/27955299/fcc17d74-f103-4a5b-97bd-25cb720c0abf
+# Dashboard Assignment
 
-#Screenshots
-![Simulator Screenshot - iPhone 15 - 2024-05-15 at 20 53 59](https://github.com/cbpowell/MarqueeLabel/assets/27955299/b121d272-1626-4d69-b850-9b056da2c2bf) ![Simulator Screenshot - iPhone 15 - 2024-05-15 at 20 54 44](https://github.com/cbpowell/MarqueeLabel/assets/27955299/bf253b0a-027a-419c-b13a-50faecc50a55)
+**Video Recording:**
+https://github.com/MallikarjunH/Assignment/assets/27955299/7f17f596-6023-42bc-a8d1-3349b5167743
+
+**Screenshot:**
+<img width="694" alt="Screenshot 2024-05-15 at 9 13 31 PM" src="https://github.com/MallikarjunH/Assignment/assets/27955299/05afaccd-015d-4db1-b4ff-beb49864f78f">
+
